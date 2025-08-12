@@ -21,3 +21,6 @@ A clean, modern, and conversion-focused **Furniture E-Commerce Website UI** desi
 * Figma (UI/UX Design & Prototyping)
 * Font Pairing: Clean sans-serif for readability
 * Color Palette: Neutral tones with high-contrast CTAs
+
+## Prototpe link
+https://www.figma.com/proto/4iG8H7Jg0t0VbDU9G2q0Q0/Furniture-Website--Community-?page-id=0%3A1&node-id=16-65&p=f&viewport=2846%2C1410%2C0.5&t=iF6wwIzDKK2U7pRV-1&scaling=scale-down-width&content-scaling=fixed
